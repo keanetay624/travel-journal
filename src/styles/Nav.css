@@ -1,0 +1,12 @@
+nav {
+    background: #F55A5A;
+    padding: 30px 36px;
+    color: white;
+    display: flex;
+    column-gap: 10px;
+    font-weight: 200;
+    align-items: center;
+    justify-content: center;
+    max-width: 550px;
+    margin: 0 auto;
+}
